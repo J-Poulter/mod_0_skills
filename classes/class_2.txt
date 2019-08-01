@@ -1,0 +1,13 @@
+Class: Drinks
+
+Attributes:
+Drink type (array)
+Sugar content (integer)
+Color (string)
+Carbonated (boolean)
+
+Methods:
+Dilute with water (reduces sugar content)
+Combine drinks (changes color)
+Select soda (determines carbonated)
+order ice_tea (selects drink type)
