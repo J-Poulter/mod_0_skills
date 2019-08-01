@@ -1,0 +1,13 @@
+Object/Instance: Dr. Pepper
+
+Attributes:
+Drink type (soda)
+Sugar content (32g)
+Color (brownish_black)
+Carbonated (true)
+
+Methods:
+Dilute with water (sugar content dropped from 32g to 16g)
+Combine with Mountain Dew (color goes from brown to dark green)
+Select soda (determined carbonation boolean)
+Order Dr. Pepper (Drink choice is soda)
