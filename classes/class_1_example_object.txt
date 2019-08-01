@@ -1,0 +1,12 @@
+Object/Instance: Dinner Plate
+
+Attributes:
+Color (dark_brown)
+Holds_quantity_food (1.5_pounds_food)
+Material (glass)
+Diameter (14 inches)
+
+Drop_plate (reduced diameter to 3 inches)
+Wash_Repeatedly (color fades from dark brown to light tan)
+Recycle (material changes from glass to liquid_glass)
+Eat (Quantity of food decreases from 1.5 pounds to 1 pound)
