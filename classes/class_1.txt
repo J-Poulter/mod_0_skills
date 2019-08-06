@@ -1,13 +1,13 @@
-Class: Plates
+Class: Plate
 
 Attributes:
 Color (string)
-Holds_quantity_food (float)
+Holds quantity food (float)
 Material (string)
 Diameter (integer)
 
 Methods:
-Drop_plate (changes diameter)
-Wash_Repeatedly (changes color)
-Recycle (changes_materials)
-Eat (subtracts weight_eaten from quantity)
+Drop plate (changes diameter)
+Wash Repeatedly (changes color)
+Recycle (changes materials)
+Eat (subtracts weight eaten from quantity)
