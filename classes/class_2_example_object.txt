@@ -7,7 +7,7 @@ Color (brownish_black)
 Carbonated (true)
 
 Methods:
-Dilute with water (sugar content dropped from 32g to 16g)
-Combine with Mountain Dew (color goes from brown to dark green)
-Select soda (determined carbonation boolean)
-Order Dr. Pepper (Drink choice is soda)
+Dilute with water (sugar content decreased from 32g to 16g)
+Combine drinks (color goes from brown to dark green)
+Select soda (determined carbonation boolean = true)
+Order ice tea (drink type changes from soda to tea)
