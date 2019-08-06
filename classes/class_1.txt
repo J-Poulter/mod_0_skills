@@ -8,6 +8,6 @@ Diameter (integer)
 
 Methods:
 Drop plate (changes diameter)
-Wash Repeatedly (changes color)
+Wash repeatedly (changes color)
 Recycle (changes materials)
 Eat (subtracts weight eaten from quantity)
