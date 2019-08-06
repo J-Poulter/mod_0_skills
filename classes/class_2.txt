@@ -1,4 +1,4 @@
-Class: Drinks
+Class: Drink
 
 Attributes:
 Drink type (array)
@@ -10,4 +10,4 @@ Methods:
 Dilute with water (reduces sugar content)
 Combine drinks (changes color)
 Select soda (determines carbonated)
-order ice_tea (selects drink type)
+Order ice tea (selects drink type)
